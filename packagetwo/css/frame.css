@@ -1,0 +1,206 @@
+*{  
+    margin: 0;
+    padding: 0;
+    /* box-sizing: 0;
+    overflow-x: hidden; */
+}
+.outerContainer{
+    height: 100vh;   
+}
+.houseAll{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo1{
+    display: flex;
+}
+.logos{
+    margin-left: 10px;
+}
+.login{
+    margin-right: 60px;
+}
+.login ul{
+    list-style: none;
+}
+.login a{
+    text-decoration: none;
+}
+.d a{
+    color: #6d9de5;
+}
+.d1 a{
+    color: rgb(86, 92, 93) ;
+}
+.d2 a{
+    color: rgb(86, 92, 93);
+}
+.d3 a{
+    color: rgb(86, 92, 93);
+}
+.d4 a{
+    color: rgb(86, 92, 93);
+}
+.a a{
+    color: #6d9de5;
+}
+
+.buttons{
+    margin-right: 10px;
+}
+.buttons button{
+    border-radius: 8px;
+    width: 100px;
+    height: 27px;
+    border: none;
+    cursor: pointer;
+    margin-left: 60px;
+}
+.try2 a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.try2{
+    background-color: #6d9de5;
+    color: aliceblue;
+}
+
+.navBar ul{
+    display: flex;
+    list-style: none;
+}
+
+.navBar a{
+    text-decoration: none;
+}
+
+.navBar{
+    width: 500px;
+}
+
+.navBar ul li{
+    width: 500px;
+}
+
+
+.Optimize h1{
+    margin-top: 90px;
+    padding-left: 200px;
+    /* width: 1500px; */
+}
+
+.Optimize{
+    margin-right: 190px;
+    text-align: center;
+    
+}
+
+.h1tag {
+    font-size: 45px;
+    margin-left: 10px;
+
+}
+.h1tag2{
+    margin-left: 4px;
+    margin-top: 20px;
+}
+.h1tag2 span{
+    color: #0065FE;
+}
+
+.Optimize img{
+    margin-left: 300px;
+    width: 200px;
+}
+
+.text p{
+    padding-left: 290px;
+    padding-top: 30px;
+    line-height: 20px;
+    font-size: large;
+    
+}
+.textrem{
+    margin-left: 0px;
+    margin-top: -30px;
+}
+.buttons button:hover{
+    opacity: 0.7;
+}
+.buttons button:active{
+    opacity: 0.5;
+}
+.buttons button{
+    color: #1E3448;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+.but button{
+    width: 80px;
+    height: 25px;
+    border-radius: 8px;
+    color: aliceblue;
+    background-color: #0065FE;
+    border: none;
+    margin-left: 280px;
+    cursor: pointer;
+}
+.but button:hover{
+    opacity: 0.7;
+}
+
+.but button:active{
+    opacity: 0.5;
+}
+
+.but ul{
+    width: 80px;
+    margin-left: 30px;
+}
+
+.but a{
+    text-decoration:  none;
+}
+.signUp a{
+    background-color: #0065FE;
+    color: white;
+}
+.but ul li{
+    list-style: none;
+}
+
+.emptydiv{
+    border: 1px solid #0065FE;
+    width: 500px;
+    height: 224px;
+    margin-left: 470px;
+    margin-top: 100px;
+    border-radius: 10px;
+    display: flex;
+}
+
+/* .design img{
+    margin-top:50px;
+    margin-left: 40px;
+}
+
+.textdesign p{
+    margin-top:90px ;
+    margin-left: 10px;
+    
+} */
+/* .difimage img{
+    margin-top: 115px;
+    margin-left: 5px;
+}
+.clouddesign img{
+    margin-top: -300px;
+    margin-left: 230px;
+} */
+
